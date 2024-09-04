@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [My own nvim plugin to find todo in project](https://github.com/MaxLabrecque/todofinder.nvim)
 
-- 🌱 I’m currently learning **Angular and security courses**
+- 🌱 I’m currently learning **Reverse engineering !**
 
-- 💬 Ask me about **React, Javascript, Rust**
+- 💬 Ask me about **React, Angular, Rust, or anything related to Cybersecurity !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
