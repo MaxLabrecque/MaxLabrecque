@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macks_s</h1>
 <h3 align="center">A fullstack developper from Quebec who also love Cybersecurity and IOT dev!</h3>
 
-- 🔭 I’m currently working on [My own nvim plugin to find todo in project](https://github.com/MaxLabrecque/todofinder.nvim)
+- 🔭 I’m currently working on [My own NPO]([https://github.com/MaxLabrecque/todofinder.nvim](https://www.fondationpourtoipourlavie.org/en))
 
 - 🌱 I’m currently learning **Reverse engineering !**
 
